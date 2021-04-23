@@ -1,6 +1,6 @@
 ```uml
 @startuml
-お客 -> ホール係: 注文
-ホール係　--> お客: 注文した料理
+Bob -> Alice: Hello
+Alice　--> Bob: hey
 @enduml
 ```
