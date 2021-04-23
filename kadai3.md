@@ -1,5 +1,5 @@
 ```uml
-@dtartuml
+@startuml
 お客　-> ホール係: 注文
 ホール係　--> お客: 注文した料理
 @enduml
