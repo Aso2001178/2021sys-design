@@ -1,5 +1,6 @@
+'''stert uml
 entity"顧客マスタ" as customer <m_customers>
-<<M,MASRER_MARK_COLOR>>{
+<<M,MASTER_MARK_COLOR>>{
 + customer_code [PK]
 --
 pss
@@ -10,3 +11,4 @@ mail
 del_flag
 reg_date
 }
+'''
